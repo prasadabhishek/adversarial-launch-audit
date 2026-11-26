@@ -18,3 +18,6 @@ uv run scripts/launch_audit.py hygiene --root /path/to/repo --output /tmp/hygien
 ## License
 
 MIT
+
+---
+Built by [Abhishek Prasad](https://abhishekprasad.fyi)
